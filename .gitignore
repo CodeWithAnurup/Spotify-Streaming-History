@@ -1,0 +1,15 @@
+# Checkpoints & Virtual Documents
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
